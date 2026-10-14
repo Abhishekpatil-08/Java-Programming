@@ -1,0 +1,19 @@
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Eclipse metadata
+.metadata/
+.settings/
+.project
+.classpath
+
+# Compiled Java files
+bin/
+out/
+*.class
+
+# Build files
+target/
+build/
